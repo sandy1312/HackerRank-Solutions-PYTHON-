@@ -5,3 +5,4 @@
     </a>
 </p>
 This repository contains my solutions of problems of PYTHON.
+Hope you find this repository easy and informative.
